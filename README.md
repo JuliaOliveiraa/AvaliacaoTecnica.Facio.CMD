@@ -39,6 +39,6 @@ Para determinar a ordem correta de instalação das dependências, utilizei uma 
 
 - As entradas desse projeto *não são case sensitive*;
 
-#### Deixo meu email para caso tenha mais duvidas: [Julia Oliveira](mailto:oliveiradesilvajulia@gmail.com) :wink:
+#### Deixo meu email para caso tenha mais duvidas: [Julia Oliveira]<a href = "mailto:oliveiradesilvajulia@gmail.com">Julia Oliveira</a> :wink:
 
 
