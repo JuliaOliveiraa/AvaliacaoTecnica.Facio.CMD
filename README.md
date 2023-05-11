@@ -35,4 +35,8 @@ Para determinar a ordem correta de instalação das dependências, utilizei uma 
 7. Após inserir todas as dependências, o programa exibirá a ordem correta de instalação das dependências.
 
 
+## Obs
+
+- As entradas desse projeto *não são case sensitive*;
+
 
